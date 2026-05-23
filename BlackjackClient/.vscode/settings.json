@@ -1,0 +1,9 @@
+{
+  "liveServer.settings.root": "/",
+  "liveServer.settings.port": 5050,
+  "liveServer.settings.CustomBrowser": "microsoft-edge",
+  "liveServer.settings.ignoreFiles": [
+    ".vscode/**",
+    "**/*.cs"
+  ]
+}
